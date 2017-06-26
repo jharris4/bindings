@@ -9,6 +9,9 @@
   "engines": {
     "node": ">=4"
   },
+  "dependencies": {
+    "node-gyp": "^3.3.1"
+  },
   "keywords": [
     "tiny",
     "websockets"
